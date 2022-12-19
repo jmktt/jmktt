@@ -12,5 +12,3 @@
   <img align="center" alt="JM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
-  ![Snake animation](https://github.com/jmktt/jmktt/blob/output/github-contribution-grid-snake.svg)
