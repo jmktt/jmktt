@@ -1,4 +1,4 @@
-### Hey there👋
+### Hey There👋
 
 <div align="center"><hr>
   <a href=<"https://github.com/jmktt">
