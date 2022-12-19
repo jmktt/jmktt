@@ -1,4 +1,4 @@
-### Hey I'm João Mauricio!👋
+### Hey there👋
 
 <div align="center"><hr>
   <a href=<"https://github.com/jmktt">
