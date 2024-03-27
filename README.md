@@ -12,7 +12,7 @@
   <img align="center" alt="JM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="pirate" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1064038877913960513/1064248407927029810/pirate.png">
+  <img align="right" alt="pirate" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1064038877913960513/1142670691221635182/jm.ktt_pirate_military_robot_in_ascii_art_b43e6f47-2e19-4423-a3cf-81888280fb62.jpg?ex=66121b82&is=65ffa682&hm=df7cdef4a002c00e72e54103c45bc4c4d2e13a9dfad0d51b1115fcc97c28f2c7&">
 </div>
   
   ##
