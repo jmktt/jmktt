@@ -39,8 +39,9 @@
 </div>
 <div align="center">
   <a target="_blank" href="https://tryhackme.com/jm.ktt/badges/adventofcyber5"><img title="adventofcyber5" alt="TryHackMe badge 8"  src="https://tryhackme.com/img/badges/adventofcyber5.svg" width="100"></a>
-  <a target="_blank" href="https://tryhackme.com/jm.ktt/badges/advancedelk">         <img title="advancedelk"          alt="TryHackMe badge 9"  src="https://tryhackme.com/img/badges/advancedelk.svg"         width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/jm.ktt/badges/advanced-elk">         <img title="advancedelk"          alt="TryHackMe badge 9"  src="https://tryhackme.com/img/badges/advancedelk.svg"         width="100"></a>
   <a target="_blank" href="https://tryhackme.com/jm.ktt/badges/owasp-10">     <img title="OWASP Top 10"  alt="TryHackMe badge 10" src="https://tryhackme.com/img/badges/owasptop10.svg"   width="100"></a>
+  <a target="_blank" href="https://tryhackme.com/jm.ktt/badges/detection-engineering">     <img title="Sighut"  alt="TryHackMe badge 11" src="https://tryhackme.com/img/badges/detectionengineering.svg"   width="100"></a>
 </div>
 <br>
 <div align="center">
