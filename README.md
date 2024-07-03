@@ -18,7 +18,7 @@
  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
  <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <img align="right" alt="pirate" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1064038877913960513/1142670691221635182/jm.ktt_pirate_military_robot_in_ascii_art_b43e6f47-2e19-4423-a3cf-81888280fb62.jpg?ex=66121b82&is=65ffa682&hm=df7cdef4a002c00e72e54103c45bc4c4d2e13a9dfad0d51b1115fcc97c28f2c7&">
+  <img align="right" alt="pirate" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1064038877913960513/1142670691221635182/jm.ktt_pirate_military_robot_in_ascii_art_b43e6f47-2e19-4423-a3cf-81888280fb62.jpg?ex=66861f82&is=6684ce02&hm=ad0969c700a746dfe9820fc99febd72f6cdd9b2fd4aee5fa57f98c95c7cc7a1d&">
 </div>
   
   ##
