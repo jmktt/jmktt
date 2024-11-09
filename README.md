@@ -9,6 +9,7 @@
   <img width="45% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmktt&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
+<br>
 <div style="display: inline_block"><br>
 <a><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
 <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
@@ -27,6 +28,7 @@
 <div> 
 <a href="https://www.instagram.com/jm.ktt/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-mauricio-cardoso-gueiros-874a25234" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
 </div>
 
