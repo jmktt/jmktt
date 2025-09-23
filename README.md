@@ -4,7 +4,6 @@
 
 
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmktt&show_icons=true&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000&border_color=FF0000)
   <a href=<"https://github.com/jmktt">
   <img width="49% height="180em" src="https://github-readme-stats.vercel.app/api?username=jmktt&theme=default&bg_color=000000&title_color=FF0000&text_color=FF0000&icon_color=FF0000&border_color=FF0000)
 rue"/>
