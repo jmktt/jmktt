@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile.png" alt="Profile GIF" width="300" />
+  <img src="pirate.png" alt="pirate" width="300" />
 
 <h3 align="center">João Mauricio Gueiros</h3>
 <p align="center">
